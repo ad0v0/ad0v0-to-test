@@ -1,5 +1,23 @@
-# to test
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta name="description" content="A simple HTML5-ready template.">
+        <link rel="canonical" href="[SITE_URI]">
+        <link rel="shortcut icon" type="image/x-icon" href="[SITE_URI]/favicon.ico">
+        <title>HTML5 template</title>
+    </head>
+    <body>
+        <header>
 
-## to test 2
+        </header>
+        <main>
+          <h1>Test §</h1>
+          <p>paragraph test</p>
+        </main>
+        <footer>
 
-### to test 3
+        </footer>
+    </body>
+</html>
